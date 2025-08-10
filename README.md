@@ -74,12 +74,9 @@ Open: **http://127.0.0.1:8000**
 ### Dashboard
 - Paste targets (one per line): hostnames, IPs, or URLs.  
   Example:
-  ```
-  example.com
-  1.2.3.4
-  https://scanme.nmap.org
-  2001:db8::1
-  ```
+  
+  <img width="1286" height="840" alt="Screenshot 2025-08-10 at 7 03 22 PM" src="https://github.com/user-attachments/assets/69f42782-552c-4032-9800-268670e09513" />
+
 - Pick tools (Nmap/Nuclei/Nikto/WPScan) and options.
 - Click **Run Now** → a **terminal popup** opens and streams `/scans/run?id=…`.
 
