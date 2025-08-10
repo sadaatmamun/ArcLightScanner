@@ -1,4 +1,4 @@
-# Darknight Vulnerability Scanner v2
+# DarkScan Vulnerability Scanner v1
 
 Nessus‑style, single‑file **FastAPI** web app for light vulnerability assessments. Paste IPs/hosts/URLs, pick tools, stream results, and export reports.
 
